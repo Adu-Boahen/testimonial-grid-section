@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Adu-Boahen/testimonial-grid-section.git)
 - Live Site URL:(https://vocal-stroopwafel-20e894.netlify.app)
 
 ## My process
@@ -43,9 +43,8 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [@Adu-Boahen](https://www.linkedin.com/Adu-Boahen)
-- Frontend Mentor - [@yAdu-Boahen](https://www.frontendmentor.io/profile/Adu-Boahen)
+- LinkedIn - [@Adu-Boahen](https://www.linkedin.com/in/michael-adu-boahen-234b19243/)
+- Frontend Mentor - [@Adu-Boahen](https://www.frontendmentor.io/profile/Adu-Boahen)
 - github - [@Adu-Boahen](https://www.github.com/Adu-Boahen)
-
 
 # testimonial-grid-section
